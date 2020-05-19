@@ -1,4 +1,4 @@
-# python-api-challenge-
+# Python API Weather Data
 
 The OpenWeatherMap API produced series of successive API calls that randomly selected at least 500 unique (non-repeat) cities based on their longitude and latitude. A print log of each city was created as it was being processed with the city number and name. A linear regression was also ran on the Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere(less than 0 degrees latitude) analysis. A csv was saved of all retreieved data and an image for each scatterplot.
 
